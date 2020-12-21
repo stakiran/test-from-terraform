@@ -1,2 +1,1 @@
-# test-from-terraform
-Terraform からつくってみたものです
+# これは Terraform から作成したものです
